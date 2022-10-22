@@ -16,6 +16,8 @@ public class IfApp {
 //			}	
 //		}
 		
+		//위의 코드와 아래의 코드는 같다
+		
 		if(false) {
 			System.out.println(1);
 			
